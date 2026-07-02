@@ -2,7 +2,8 @@
 
 ## Live
 
-Pending deploy.
+- GitHub Pages: https://vitaliy-demidov.github.io/most-v4-2-executive-route-atlas/
+- GitHub repo: https://github.com/vitaliy-demidov/most-v4-2-executive-route-atlas
 
 ## Local
 
@@ -19,4 +20,4 @@ Pending deploy.
 
 ## Verification
 
-Pending local/browser/GitHub Pages verification.
+Ad-hoc verification is required after the final deploy because this is standalone static HTML with no canonical test suite.

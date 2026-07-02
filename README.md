@@ -24,7 +24,17 @@ http://127.0.0.1:5186/
 
 ## GitHub / live preview
 
-Будет обновлено после deploy.
+Репозиторий:
+
+```text
+https://github.com/vitaliy-demidov/most-v4-2-executive-route-atlas
+```
+
+GitHub Pages:
+
+```text
+https://vitaliy-demidov.github.io/most-v4-2-executive-route-atlas/
+```
 
 ## Файл
 
